@@ -1,6 +1,6 @@
 ## Hi there 👋 [![](https://visitcount.itsvg.in/api?id=konstant-gk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on **Data Visualisation on Power BI**
+- 🔭 I’m currently working on **Data Visualisation, Data Cleaning, Data Manipulation**
 - 🌱 I’m currently learning Machine Learning for Supervised and Unsupervised learning
 - 👯 I’m looking to collaborate on Data analysis projects (ETLs & Data warehousing)
 - 💬 Ask me about Data, Technology & Personal Development
