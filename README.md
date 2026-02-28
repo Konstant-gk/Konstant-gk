@@ -31,7 +31,7 @@
   <img width="150" height="150" alt="Konstantinos profile icon" src="https://github.com/user-attachments/assets/cca2856e-c147-4de5-a852-251b7da482ae" style="border-radius: 50%; border: 3px solid #8711C1; padding: 5px;"/>
 
 <!-- TYPING SVG - Your existing one with adjusted colors -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=40&duration=2200&pause=200&color=8711C1&background=B4FF4000&center=true&vCenter=true&width=1200&height=50&lines=How+to+descibe+me?;Data+Engineer+|+Designer+|+World+Traveler.;2+years+as+Analyst.;Now+I+Build+the+pipelines+that+feed+the+dashboards.;ETL+|+Data+Quality+|+Viz.;SQL+|+Python+|+Pyspark+|+PowerBI.;Check+my+skills+below++%E2%96%BC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=40&duration=2200&pause=200&color=8711C1&background=B4FF4000&center=true&vCenter=true&width=1200&height=50&lines=How+to+descibe+me?;Data+Engineer+|+Designer+|+World+Traveler.;2+years+Analyst.;Now+building+pipelines+that+feed+the+dashboards.;ETL+|+Data+Quality+|+Viz.;SQL+|+Python+|+Pyspark+|+PowerBI.;Check+my+skills+below++%E2%96%BC)](https://git.io/typing-svg)
 
 <br>
 <br> 
