@@ -2,9 +2,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=250&section=header&text=Hi%2C%20I'm%20Konstantinos!&fontSize=50&fontAlignY=35&desc=Freelance%20Data%20Engineer%20%7C%20Building%20Pipelines%20From%20Source%20to%20Insight&descAlignY=55&animation=fadeIn" width="100%"/>
 
-
 <!-- CONTACT BUTTONS - PROFILE VIEWS COUNTER Clickable with your email and LinkedIn --> 
-<p align="right">
+<p align="left">
   <!-- Email Badge -->
   <a href="mailto:konstant.gka@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -23,6 +22,9 @@
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=Konstant-gk&color=8711C1&style=for-the-badge&label=Profile+Views" alt="Profile views" />
 </p>
+
+<br>
+<br>
 
 <!-- PROFILE ICON + CENTERED TITLE -->
 <p align="center">
@@ -54,15 +56,6 @@
 </p>
 
 <br>
-<br> 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=konstant-gk&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=konstant-gk&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=konstant-gk&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=konstant-gk&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 ## 💫 **My Story: From Data to Decisions**
@@ -84,31 +77,8 @@ I'm a **freelance data engineer** who believes that **great data tells a story**
   <i>📍 Available worldwide for remote freelance projects</i>
 </p>
 
+<br>
 
-
----
-
-## 📊 **GitHub Analytics** - My Coding Activity
-
-<p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=konstant-gk&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=8711C1&icon_color=2472FC&text_color=2D2D2D" width="400"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=konstant-gk&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=8711C1&text_color=2472FC" width="340"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=konstant-gk&theme=transparent&hide_border=true&ring=8711C1&fire=2472FC&currStreakLabel=8711C1" width="600"/>
-      </td>
-    </tr>
-  </table>
-</p>
-
----
 
 ## 🚀 **Featured Projects**
 
@@ -200,12 +170,29 @@ I'm a **freelance data engineer** who believes that **great data tells a story**
 
 ---
 
+<!-- GitHub Stats - Centered with Dark Theme -->
+<h1 align="center">📊 GitHub Stats</h1>
+
+<!-- Streak Stats - Using the correct endpoint -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Konstant-gk&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<!-- Contribution Stats - Fixed endpoint -->
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Konstant-gk&limit=5&theme=dark&hide_border=false&combine_all_yearly_contributions=true" alt="Contributor Stats" />
+</p>
+
+<!-- GitHub Activity Graph (Optional - really cool!) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Konstant-gk&theme=github-dark&hide_border=false" alt="GitHub Activity Graph" width="90%"/>
+</p>
+
+
 
 ## 💜 **Let's Build Something Amazing Together**
 
-<p align="center">
-  <img width="200" height="200" alt="configuration" src="https://github.com/user-attachments/assets/cca2856e-c147-4de5-a852-251b7da482ae" style="border-radius: 50%; border: 4px solid linear-gradient(45deg, #8711C1, #2472FC);"/>
-</p>
+
 
 <p align="center">
   <b>Ready to transform your data?</b>
@@ -236,11 +223,7 @@ I'm a **freelance data engineer** who believes that **great data tells a story**
 
 <!-- FOOTER GRADIENT WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=200&section=footer"/>
 </p>
 
 
-
-
-
---
