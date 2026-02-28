@@ -148,61 +148,61 @@ Now I'm a **freelance data engineer** who understands what analysts and stakehol
 
 <table>
   <tr>
+    <!-- Project 1: SQL Data Warehouse -->
     <td width="50%">
-      <h3 align="center" style="color: #8711C1;">📈 E-commerce Analytics Pipeline</h3>
+      <h3 align="center" style="color: #58A6FF;">🏗️ SQL Data Warehouse</h3>
       <div align="center">
-        <a href="https://github.com/Konstant-gk/Sales-Performance-Analysis-SQL-Project">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Konstant-gk&repo=Sales-Performance-Analysis-SQL-Project&theme=transparent&title_color=8711C1&icon_color=2472FC&border_color=8711C1" width="100%" />
+        <a href="https://github.com/Konstant-gk/SQL_DataWarehouse_Project">
         </a>
-        <p><strong>SQL • Data Analysis • Business Intelligence</strong></p>
-        <p align="left">Comprehensive sales performance analysis with complex SQL queries, window functions, and business metrics calculation. <b>Impact:</b> Reduced reporting time by 70% for the analytics team.</p>
+        <p><strong>TSQL • Data Warehousing • Star Schema</strong></p>
+        <p align="left">Data warehouse implementation with star schema design, ETL processes, and dimensional modeling. <b>Tech:</b> TSQL, SQL Server, Data Integration patterns.</p>
         <p align="center">
-          <a href="https://github.com/Konstant-gk/Sales-Performance-Analysis-SQL-Project">
-            <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=8711C1&color=2472FC"/>
+          <a href="https://github.com/Konstant-gk/SQL_DataWarehouse_Project">
+            <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2D333B&color=58A6FF"/>
           </a>
         </p>
       </div>
     </td>
+    <!-- Project 2: Data Warehouse ML Project -->
     <td width="50%">
-      <h3 align="center" style="color: #8711C1;">📊 Bank Churn Analysis</h3>
+      <h3 align="center" style="color: #58A6FF;">🤖 ML + Data Warehouse</h3>
       <div align="center">
-        <a href="https://github.com/Konstant-gk/Bank-Churn-Analysis">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Konstant-gk&repo=Bank-Churn-Analysis&theme=transparent&title_color=8711C1&icon_color=2472FC&border_color=8711C1" width="100%" />
+        <a href="https://github.com/Konstant-gk/Datawarehouse_ML_SQL_Python_PowerBI_Project">
         </a>
-        <p><strong>Python • Pandas • Visualization</strong></p>
-        <p align="left">In-depth customer churn analysis with data cleaning, exploratory analysis, and visualization of key churn drivers. <b>Impact:</b> Identified 3 key factors causing 40% of customer churn.</p>
+        <p><strong>SQL • Python • Power BI • ML</strong></p>
+        <p align="left">End-to-end analytics project combining data warehousing, machine learning, and BI visualization. <b>Impact:</b> Integrated pipeline from raw data to predictive insights.</p>
         <p align="center">
-          <a href="https://github.com/Konstant-gk/Bank-Churn-Analysis">
-            <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=8711C1&color=2472FC"/>
+          <a href="https://github.com/Konstant-gk/Datawarehouse_ML_SQL_Python_PowerBI_Project">
+            <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2D333B&color=58A6FF"/>
           </a>
         </p>
       </div>
     </td>
   </tr>
   <tr>
+    <!-- Project 3: Spotify Streaming Pipeline -->
     <td width="50%">
-      <h3 align="center" style="color: #8711C1;">🎬 Movie Industry Analysis</h3>
+      <h3 align="center" style="color: #58A6FF;">🎵 Spotify Streaming Pipeline</h3>
       <div align="center">
-        <a href="https://github.com/Konstant-gk/Movie-Industry-Exploratory-Data-Analysis">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Konstant-gk&repo=Movie-Industry-Exploratory-Data-Analysis&theme=transparent&title_color=8711C1&icon_color=2472FC&border_color=8711C1" width="100%" />
+        <a href="https://github.com/Konstant-gk/Spotify_Streaming_Data_Engineering_Project">
         </a>
-        <p><strong>Python • Matplotlib • Seaborn</strong></p>
-        <p align="left">Exploratory analysis of movie datasets revealing trends, correlations, and insights about box office performance. <b>Impact:</b> Found that movies with budgets >$50M have 3x higher ROI.</p>
+        <p><strong>Kafka • Spark • Streaming • ETL</strong></p>
+        <p align="left">Real-time streaming pipeline for Spotify data with Kafka and Spark. <b>Impact:</b> Processed 10K+ events/sec with sub-second latency.</p>
         <p align="center">
-          <a href="https://github.com/Konstant-gk/Movie-Industry-Exploratory-Data-Analysis">
-            <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=8711C1&color=2472FC"/>
+          <a href="https://github.com/Konstant-gk/Spotify_Streaming_Data_Engineering_Project">
+            <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2D333B&color=58A6FF"/>
           </a>
         </p>
       </div>
     </td>
+    <!-- Project 4: Coming Soon -->
     <td width="50%">
-      <h3 align="center" style="color: #8711C1;">🔜 End-to-End Pipeline</h3>
+      <h3 align="center" style="color: #58A6FF;">🔜 Coming Soon: End-to-End Pipeline</h3>
       <div align="center">
-        <img src="https://via.placeholder.com/400x150/8711C1/ffffff?text=Coming+Soon%3A+Full+Data+Pipeline" width="100%" alt="Coming Soon">
-        <p><strong>Spark • Airflow • dbt • Snowflake • Kafka</strong></p>
-        <p align="left">Building a complete end-to-end data engineering project with streaming data, transformations, and real-time dashboards. <b>Status:</b> In active development.</p>
+        <p><strong>dbt • Snowflake • Airflow • Docker</strong></p>
+        <p align="left">Building a complete cloud-native data platform with modern stack. <b>Status:</b> In active development.</p>
         <p align="center">
-          <img src="https://img.shields.io/badge/In_Progress-FFA500?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=8711C1&color=2472FC"/>
+          <img src="https://img.shields.io/badge/In_Progress-58A6FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=2D333B&color=58A6FF"/>
         </p>
       </div>
     </td>
@@ -210,7 +210,7 @@ Now I'm a **freelance data engineer** who understands what analysts and stakehol
   <tr>
     <td colspan="2" align="center">
       <a href="https://github.com/Konstant-gk?tab=repositories">
-        <img src="https://img.shields.io/badge/View_All_Repositories-4A90E2?style=for-the-badge&logo=github&logoColor=white&labelColor=8711C1&color=2472FC"/>
+        <img src="https://img.shields.io/badge/View_All_Repositories-2D333B?style=for-the-badge&logo=github&logoColor=white&labelColor=58A6FF&color=2D333B"/>
       </a>
     </td>
   </tr>
