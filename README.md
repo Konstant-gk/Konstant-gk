@@ -1,6 +1,6 @@
 <!-- DYNAMIC HEADER WITH YOUR BRAND COLORS -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8711C1&color2=2472FC&height=250&section=header&text=Hi%2C%20I'm%20Konstantinos!&fontSize=50&fontAlignY=35&desc=Freelance%20Data%20Engineer%20%7C%20Building%20Pipelines%20From%20Source%20to%20Insight&descAlignY=55&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=250&section=header&text=Hi%2C%20I'm%20Konstantinos!&fontSize=50&fontAlignY=35&desc=Freelance%20Data%20Engineer%20%7C%20Building%20Pipelines%20From%20Source%20to%20Insight&descAlignY=55&animation=fadeIn" width="100%"/>
 
 
 <!-- CONTACT BUTTONS - PROFILE VIEWS COUNTER Clickable with your email and LinkedIn --> 
@@ -56,35 +56,14 @@
 <br>
 <br> 
 
-
-
-# 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/konstant_gk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/konstantinos-gkaravelos/) 
-
-
-
-
-
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=konstant-gk&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=konstant-gk&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=konstant-gk&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=konstant-gk&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
-
-
-
-
-
-
-
----
 
 ## 💫 **My Story: From Data to Decisions**
 
@@ -105,59 +84,7 @@ I'm a **freelance data engineer** who believes that **great data tells a story**
   <i>📍 Available worldwide for remote freelance projects</i>
 </p>
 
----
 
-## 🛠️ **My Toolbox** - What I Use to Build
-
-### **Core Languages & Frameworks**
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=8711C1&color=2472FC" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=8711C1&color=2472FC" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white&labelColor=8711C1&color=2472FC" />
-</p>
-
-### **Data Engineering & Orchestration**
-<p align="center">
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white&labelColor=8711C1&color=2472FC" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white&labelColor=8711C1&color=2472FC" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white&labelColor=8711C1&color=2472FC" />
-</p>
-
-### **Cloud & Data Platforms**
-<p align="center">
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white&labelColor=8711C1&color=2472FC" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white&labelColor=8711C1&color=2472FC" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=8711C1&color=2472FC" />
-</p>
-
-### **Visualization & BI**
-<p align="center">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&labelColor=8711C1&color=2472FC" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black&labelColor=8711C1&color=2472FC" />
-</p>
-
-### **Project Management**
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=8711C1&color=2472FC" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white&labelColor=8711C1&color=2472FC" />
-</p>
-
-<!-- Your icon toolbox (keeping your original icons with spacing) -->
-<p align="center">
-  <img width="50" height="50" alt="python" src="https://github.com/user-attachments/assets/0a7638d9-85c6-474a-aeac-1e235c25d53f" />
-  <img width="50" height="50" alt="mysql" src="https://github.com/user-attachments/assets/9c9fcd88-55ca-4da1-b53d-1dc01d210f5a" />
-  <img width="50" height="50" alt="git" src="https://github.com/user-attachments/assets/05175811-dd93-4cd5-ab3c-437d4a81bc91" />
-  <img width="50" height="50" alt="kafka" src="https://github.com/user-attachments/assets/673ca8e7-d6f1-4346-a788-35bbaaa683ee" />
-  <img width="50" height="50" alt="snowflake" src="https://github.com/user-attachments/assets/4504ba74-d538-4fb3-8fe2-a95cf12f418b" />
-  <img width="50" height="50" alt="docker" src="https://github.com/user-attachments/assets/5f462e72-c2af-41a9-85e6-5bf2586056d6" />
-  <img width="50" height="50" alt="tableau" src="https://github.com/user-attachments/assets/38336b09-34d1-460d-a0dd-a013ade5387d" />
-  <img width="50" height="50" alt="airflow" src="https://github.com/user-attachments/assets/2d3d7715-8adf-42eb-bb4e-2f1c5fded888" />
-  <img width="50" height="50" alt="jira" src="https://github.com/user-attachments/assets/4622339d-2ac4-4992-86c0-02c63c3a8b07" />
-  <img width="50" height="50" alt="databricks" src="https://github.com/user-attachments/assets/a682de64-2efe-4ed7-aead-9f4b518ea8c3" />
-  <img width="50" height="50" alt="dbt" src="https://github.com/user-attachments/assets/a24ebf48-db7c-49fb-9108-122d44be7fed" />
-  <img width="50" height="50" alt="spark" src="https://github.com/user-attachments/assets/2a87b93c-046a-4be5-a4b7-1c0b1f46302f" />
-  <img width="50" height="50" alt="powerbi" src="https://github.com/user-attachments/assets/5156805c-02f0-402a-a066-91c0a3c39319" />
-</p>
 
 ---
 
@@ -180,9 +107,6 @@ I'm a **freelance data engineer** who believes that **great data tells a story**
     </tr>
   </table>
 </p>
-
-## 🏆 **Achievements**
-![](https://github-profile-trophy.vercel.app/?username=konstant-gk&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=4&title_color=8711C1&text_color=2472FC)
 
 ---
 
@@ -276,15 +200,6 @@ I'm a **freelance data engineer** who believes that **great data tells a story**
 
 ---
 
-## 📝 **Latest Activity**
-
-<!-- RECENT ACTIVITY:START -->
-- ⭐ Starred [some-awesome-repo](link)
-- 🔁 Pushed updates to [Bank-Churn-Analysis](link)
-- 🎉 Created new repository [data-pipeline-project](link)
-<!-- RECENT ACTIVITY:END -->
-
----
 
 ## 💜 **Let's Build Something Amazing Together**
 
