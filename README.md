@@ -1,43 +1,27 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Geologica&weight=800&size=35&duration=2500&pause=500&color=8711C1&background=B4FF4000&center=true&vCenter=true&width=1000&height=200&lines=Hey+I+am+Konstantinos!;Freelancer+Data+Engineer.;Building+pipelines+from+source+to+insight.;Check+my+work+below++%E2%96%BC)](https://git.io/typing-svg)
-
+<!-- DYNAMIC HEADER WITH YOUR BRAND COLORS -->
 <p align="center">
-  <img width="50" height="50" alt="configuration" src="https://github.com/user-attachments/assets/cca2856e-c147-4de5-a852-251b7da482ae" />
-  <br />
-</p>
-<div align="center">
-  
-  `Data Engineer | Designer | World Traveler`
-  
-</div>
-
-
-<p align="center">
-  <!-- This creates a container with your exact gradient -->
-  <div align="center" style="background: linear-gradient(135deg, #8711C1, #2472FC); padding: 30px 0; border-radius: 20px; width: 100%; max-width: 1000px; margin: 0 auto;">
-    
-    <!-- Typing SVG with white text - INSIDE the gradient -->
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=35&duration=2800&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&height=150&lines=Hey+I+am+Konstantinos!;Freelancer+Data+Engineer.;Building+pipelines+from+source+to+insight.;Check+my+work+below+%E2%96%BC" alt="Typing SVG" />
-    </a>
-    
-  </div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=250&section=header&text=Hi%2C%20I'm%20Konstantinos!&fontSize=50&fontAlignY=35&desc=Freelance%20Data%20Engineer%20%7C%20Building%20Pipelines%20From%20Source%20to%20Insight&descAlignY=55&animation=fadeIn" width="100%"/>
 </p>
 
-<!-- Rest of your profile continues here -->
+<!-- TYPING SVG - Your existing one with adjusted colors -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=45&duration=2200&pause=200&color=8711C1&background=B4FF4000&center=true&vCenter=true&width=1200&height=50&lines=How+to+descibe+me?;Data+Engineer+|+Designer+|+World+Traveler.;2+years+as+Analyst.;Now+I+Build+the+pipelines+that+feed+the+dashboards.;ETL+|+Data+Quality+|+Viz.;SQL+|+Python+|+Pyspark+|+PowerBI.;Check+my+skills+below++%E2%96%BC)](https://git.io/typing-svg)
+
+<!-- PROFILE ICON + CENTERED TITLE -->
 <p align="center">
-  <img width="120" height="120" alt="profile icon" src="https://github.com/user-attachments/assets/cca2856e-c147-4de5-a852-251b7da482ae" style="border-radius: 50%; border: 3px solid #8711C1; padding: 5px;"/>
+  <img width="120" height="120" alt="Konstantinos profile icon" src="https://github.com/user-attachments/assets/cca2856e-c147-4de5-a852-251b7da482ae" style="border-radius: 50%; border: 3px solid #8711C1; padding: 5px;"/>
 </p>
 
 <div align="center">
   <h2>
-    <code style="font-family: 'Poppins', sans-serif; background: linear-gradient(135deg, #8711C1, #2472FC); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 700;">
+    <code style="font-family: 'Poppins', sans-serif; background: linear-gradient(45deg, #8711C1, #2472FC); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 700;">
       Data Engineer | Designer | World Traveler
     </code>
   </h2>
 </div>
 
-
+<p align="center">
+  <i>Turning raw data into business-ready insights, one pipeline at a time.</i>
+</p>
 
 # 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/konstant_gk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/konstantinos-gkaravelos/) 
@@ -75,30 +59,7 @@
 
 
 
-<!-- DYNAMIC HEADER WITH YOUR BRAND COLORS -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=250&section=header&text=Hi%2C%20I'm%20Konstantinos!&fontSize=50&fontAlignY=35&desc=Freelance%20Data%20Engineer%20%7C%20Building%20Pipelines%20From%20Source%20to%20Insight&descAlignY=55&animation=fadeIn" width="100%"/>
-</p>
 
-<!-- TYPING SVG - Your existing one with adjusted colors -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=35&duration=2500&pause=500&color=8711C1&background=B4FF4000&center=true&vCenter=true&width=1000&height=200&lines=Hey+I+am+Konstantinos!;Freelancer+Data+Engineer.;Building+pipelines+from+source+to+insight.;Check+my+work+below++%E2%96%BC)](https://git.io/typing-svg)
-
-<!-- PROFILE ICON + CENTERED TITLE -->
-<p align="center">
-  <img width="120" height="120" alt="Konstantinos profile icon" src="https://github.com/user-attachments/assets/cca2856e-c147-4de5-a852-251b7da482ae" style="border-radius: 50%; border: 3px solid #8711C1; padding: 5px;"/>
-</p>
-
-<div align="center">
-  <h2>
-    <code style="font-family: 'Poppins', sans-serif; background: linear-gradient(45deg, #8711C1, #2472FC); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 700;">
-      Data Engineer | Designer | World Traveler
-    </code>
-  </h2>
-</div>
-
-<p align="center">
-  <i>Turning raw data into business-ready insights, one pipeline at a time.</i>
-</p>
 
 <!-- CONTACT BUTTONS - Clickable with your email and LinkedIn -->
 <p align="center">
