@@ -64,35 +64,30 @@ Now I'm a **freelance data engineer** who understands what analysts and stakehol
 
 <br>
 
-
-<h1 align="center" >🔧 What I Do</h1>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center" style="color: #8711C1;">📥 Data Engineering</h3>
-      <ul>
-        <li>✅ Design end-to-end pipelines (Bronze → Silver → Gold layers)</li>
-        <li>✅ Ingest from files, APIs, databases, and Kafka streams</li>
-        <li>✅ Transform with SQL, Python, and PySpark</li>
-        <li>✅ Build data warehouses and lakehouses</li>
-        <li>✅ Automate with Airflow and orchestration tools</li>
-        <li>✅ Document everything — no black boxes</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center" style="color: #8711C1;">📊 Analytics & Visualization</h3>
-      <ul>
-        <li>✅ Create dashboards in Power BI and Tableau</li>
-        <li>✅ Bridge the gap between engineering and business</li>
-        <li>✅ Translate stakeholder needs into data models</li>
-        <li>✅ Ensure data quality and validation</li>
-        <li>✅ Performance optimization for queries</li>
-        <li>✅ I speak both "engineer" and "analyst" fluently</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<h1 align="center">🔧 What I Do</h1>
+<div align="center">
+  <table width="2000px" style="max-width: 100%;">
+    <tr>
+      <td width="1000px" valign="top" align="left" style="padding-right: 40px;">
+        <h3 align="center" style="color: #8711C1;">📥 Data Engineering</h3>
+        ⚡ End-to-end pipelines (Bronze → Silver → Gold layers)<br>
+        📡 Ingest from files, APIs, databases, and Kafka streams<br>
+        🔄 Transform with SQL, Python, and PySpark<br>
+        🏗️ Build data warehouses and lakehouses<br>
+        ⏱️ Automate with Airflow and orchestration tools<br>
+        📋 Document everything — no black boxes
+      </td>
+      <td width="1000px" valign="top" align="left" style="padding-left: 40px;">
+        <h3 align="center" style="color: #8711C1;">📊 Analytics</h3>
+        🔗 Bridge the gap between engineering and business<br>
+        🎯 Translate stakeholder needs into data models<br>
+        ✅ Ensure data quality and validation<br>
+        ⚡ Performance optimization for queries<br>
+        🗣️ I speak both "engineer" and "analyst" fluently
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
@@ -126,7 +121,7 @@ Now I'm a **freelance data engineer** who understands what analysts and stakehol
       <td align="center" width="33%">
         <h3>🎯</h3>
         <h3>Analyst Background</h3>
-        <p>I think about downstream consumption — your dashboards and reports will actually work</p>
+        <p>I think about downstream consumption - Dashboards </p>
       </td>
       <td align="center" width="33%">
         <h3>🤖</h3>
@@ -149,8 +144,7 @@ Now I'm a **freelance data engineer** who understands what analysts and stakehol
 
 <br>
 
-
-## 🚀 **Featured Projects**
+<h1 align="center" >🚀 Featured Projects</h1>
 
 <table>
   <tr>
