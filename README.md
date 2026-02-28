@@ -5,18 +5,24 @@
 
 <!-- CONTACT BUTTONS - PROFILE VIEWS COUNTER Clickable with your email and LinkedIn --> 
 <p align="right">
+  <!-- Email Badge -->
   <a href="mailto:konstant.gka@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30&labelColor=8711C1&color=2472FC" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  
+  <!-- LinkedIn Badge - Original Color -->
   <a href="https://www.linkedin.com/in/konstantinos-gkaravelos/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30&labelColor=8711C1&color=2472FC" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  
+  <!-- Behance Badge - Original Color -->
   <a href="https://www.behance.net/konstant_gk">
-    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white&logoWidth=30&labelColor=8711C1&color=2472FC" alt="Behance" />
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
   </a>
-    <img src="https://komarev.com/ghpvc/?username=Konstant-gk&color=8711C1&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+  
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=Konstant-gk&color=8711C1&style=for-the-badge&label=Profile+Views" alt="Profile views" />
 </p>
-
 
 <!-- PROFILE ICON + CENTERED TITLE -->
 <p align="center">
