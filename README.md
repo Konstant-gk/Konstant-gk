@@ -1,182 +1,99 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Geologica&weight=800&size=35&duration=2500&pause=500&color=8711C1&background=B4FF4000&center=true&vCenter=true&width=1000&height=200&lines=Hey+I+am+Konstantinos!;Freelancer+Data+Engineer.;Building+pipelines+from+source+to+insight.;Check+my+work+below++%E2%96%BC)](https://git.io/typing-svg)
-
-<p align="center">
-  <img width="50" height="50" alt="configuration" src="https://github.com/user-attachments/assets/cca2856e-c147-4de5-a852-251b7da482ae" />
-  <br />
-</p>
-<div align="center">
-  
-  `Data Engineer | Designer | World Traveler`
-  
-</div>
-
-
-<p align="center">
-  <!-- This creates a container with your exact gradient -->
-  <div align="center" style="background: linear-gradient(135deg, #8711C1, #2472FC); padding: 30px 0; border-radius: 20px; width: 100%; max-width: 1000px; margin: 0 auto;">
-    
-    <!-- Typing SVG with white text - INSIDE the gradient -->
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=35&duration=2800&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&height=150&lines=Hey+I+am+Konstantinos!;Freelancer+Data+Engineer.;Building+pipelines+from+source+to+insight.;Check+my+work+below+%E2%96%BC" alt="Typing SVG" />
-    </a>
-    
-  </div>
-</p>
-
-<!-- Rest of your profile continues here -->
-<p align="center">
-  <img width="120" height="120" alt="profile icon" src="https://github.com/user-attachments/assets/cca2856e-c147-4de5-a852-251b7da482ae" style="border-radius: 50%; border: 3px solid #8711C1; padding: 5px;"/>
-</p>
-
-<div align="center">
-  <h2>
-    <code style="font-family: 'Poppins', sans-serif; background: linear-gradient(135deg, #8711C1, #2472FC); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 700;">
-      Data Engineer | Designer | World Traveler
-    </code>
-  </h2>
-</div>
-
-
-
-# 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/konstant_gk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/konstantinos-gkaravelos/) 
-
-![](https://komarev.com/ghpvc/?username=Konstant-gk&color=blueviolet&style=for-the-badge)
-
-
-# 🧰 My toolbox:
-<img width="50" height="50" alt="icons8-python-50" src="https://github.com/user-attachments/assets/0a7638d9-85c6-474a-aeac-1e235c25d53f" />
-<img width="50" height="50" alt="icons8-mysql-50" src="https://github.com/user-attachments/assets/9c9fcd88-55ca-4da1-b53d-1dc01d210f5a" />
-<img width="50" height="50" alt="icons8-git-50" src="https://github.com/user-attachments/assets/05175811-dd93-4cd5-ab3c-437d4a81bc91" />
-<img width="50" height="50" alt="icons8-apache-kafka-50" src="https://github.com/user-attachments/assets/673ca8e7-d6f1-4346-a788-35bbaaa683ee" />
-<img width="50" height="50" alt="icons8-snowflake-50" src="https://github.com/user-attachments/assets/4504ba74-d538-4fb3-8fe2-a95cf12f418b" />
-<img width="50" height="50" alt="icons8-docker-50" src="https://github.com/user-attachments/assets/5f462e72-c2af-41a9-85e6-5bf2586056d6" />
-<img width="50" height="50" alt="icons8-tableau-software-50" src="https://github.com/user-attachments/assets/38336b09-34d1-460d-a0dd-a013ade5387d" />
-<img width="50" height="50" alt="airflow-svgrepo-com" src="https://github.com/user-attachments/assets/2d3d7715-8adf-42eb-bb4e-2f1c5fded888" />
-<img width="50" height="50" alt="icons8-jira-50" src="https://github.com/user-attachments/assets/4622339d-2ac4-4992-86c0-02c63c3a8b07" />
-<img width="50" height="50" alt="databricks-icons" src="https://github.com/user-attachments/assets/a682de64-2efe-4ed7-aead-9f4b518ea8c3" />
-<img width="50" height="50" alt="dbt-bit-standalone" src="https://github.com/user-attachments/assets/a24ebf48-db7c-49fb-9108-122d44be7fed" />
-<img width="50" height="50" alt="icons8-apache-spark-50" src="https://github.com/user-attachments/assets/2a87b93c-046a-4be5-a4b7-1c0b1f46302f" />
-<img width="50" height="50" alt="icons8-power-bi-50" src="https://github.com/user-attachments/assets/5156805c-02f0-402a-a066-91c0a3c39319" />
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=konstant-gk&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=konstant-gk&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=konstant-gk&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=konstant-gk&theme=default&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=konstant-gk&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-
-
 <!-- DYNAMIC HEADER WITH YOUR BRAND COLORS -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=250&section=header&text=Hi%2C%20I'm%20Konstantinos!&fontSize=50&fontAlignY=35&desc=Freelance%20Data%20Engineer%20%7C%20Building%20Pipelines%20From%20Source%20to%20Insight&descAlignY=55&animation=fadeIn" width="100%"/>
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=250&section=header&text=Hello%2C%20I'm%20Konstantinos!&fontSize=50&fontAlignY=35&desc=Freelance%20Data%20Engineer%20%7C%20Now%20building%20pipelines%20that%20feed%20the%20dashboards&descAlignY=55&animation=fadeIn" width="100%"/>
 
-<!-- TYPING SVG - Your existing one with adjusted colors -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=35&duration=2500&pause=500&color=8711C1&background=B4FF4000&center=true&vCenter=true&width=1000&height=200&lines=Hey+I+am+Konstantinos!;Freelancer+Data+Engineer.;Building+pipelines+from+source+to+insight.;Check+my+work+below++%E2%96%BC)](https://git.io/typing-svg)
-
-<!-- PROFILE ICON + CENTERED TITLE -->
-<p align="center">
-  <img width="120" height="120" alt="Konstantinos profile icon" src="https://github.com/user-attachments/assets/cca2856e-c147-4de5-a852-251b7da482ae" style="border-radius: 50%; border: 3px solid #8711C1; padding: 5px;"/>
-</p>
-
-<div align="center">
-  <h2>
-    <code style="font-family: 'Poppins', sans-serif; background: linear-gradient(45deg, #8711C1, #2472FC); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 700;">
-      Data Engineer | Designer | World Traveler
-    </code>
-  </h2>
-</div>
-
-<p align="center">
-  <i>Turning raw data into business-ready insights, one pipeline at a time.</i>
-</p>
-
-<!-- CONTACT BUTTONS - Clickable with your email and LinkedIn -->
-<p align="center">
+<!-- CONTACT BUTTONS - PROFILE VIEWS COUNTER Clickable with your email and LinkedIn --> 
+<p align="left">
+  <!-- Email Badge -->
   <a href="mailto:konstant.gka@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30&labelColor=8711C1&color=2472FC" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  
+  <!-- LinkedIn Badge - Original Color -->
   <a href="https://www.linkedin.com/in/konstantinos-gkaravelos/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30&labelColor=8711C1&color=2472FC" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  
+  <!-- Behance Badge - Original Color -->
   <a href="https://www.behance.net/konstant_gk">
-    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white&logoWidth=30&labelColor=8711C1&color=2472FC" alt="Behance" />
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
   </a>
-</p>
-
-<!-- PROFILE VIEWS COUNTER -->
-<p align="center">
+  
+  <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=Konstant-gk&color=8711C1&style=for-the-badge&label=Profile+Views" alt="Profile views" />
 </p>
 
----
+<br>
+<br>
 
-## 💫 **My Story: From Data to Decisions**
+<!-- PROFILE ICON + CENTERED TITLE -->
+<p align="center">
+  <img width="150" height="150" alt="Konstantinos profile icon" src="https://github.com/user-attachments/assets/cca2856e-c147-4de5-a852-251b7da482ae" style="border-radius: 50%; border: 3px solid #8711C1; padding: 5px;"/>
 
-I'm a **freelance data engineer** who believes that **great data tells a story**. With a background in data analysis and a passion for clean architecture, I help businesses transform their raw data into **actionable insights**.
+<!-- TYPING SVG - Your existing one with adjusted colors -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=40&duration=2200&pause=200&color=8711C1&background=B4FF4000&center=true&vCenter=true&width=1200&height=50&lines=How+to+descibe+me?;Data+Engineer+|+Designer+|+World+Traveler.;2+years+Analyst.;Now+building+pipelines+that+feed+the+dashboards.;ETL+|+Data+Quality+|+Viz.;SQL+|+Python+|+Pyspark+|+PowerBI.;Check+my+skills+below++%E2%96%BC)](https://git.io/typing-svg)
+
+<br>
+
+
+<h1 align="center" >👨‍💻 My Story: From Dashboards to Data Pipelines</h1>
+
+
+I spent **2 years as a data analyst** turning raw data into beautiful dashboards. I loved it — but I kept hitting the same wall: **messy data, manual refreshes, and pipelines held together with duct tape.**
+
+So I went **upstream**.
+
+I learned how to build the **plumbing** — the ETL processes, the data layers, the orchestration. etc — so that **clean, reliable data flows automatically from source to insight.**
+
+Now I'm a **freelance data engineer** who understands what analysts and stakeholders actually need, because **I've been in their shoes.**
 
 <p align="center">
-  <table>
+  <table align="center" width="95%">
     <tr>
-      <td align="center"><b>⚡ Fast</b></td>
-      <td align="center"><b>🧹 Clean</b></td>
-      <td align="center"><b>📊 Business-ready</b></td>
-      <td align="center"><b>🔄 Automated</b></td>
+      <td align="center"><b>⚡ Optimized</b> <small>pipelines</small></td>
+      <td align="center"><b>🧹 Clean</b> <small>data</small></td>
+      <td align="center"><b>📊 Business-ready</b> <small>analytics</small></td>
+      <td align="center"><b>🔄 Automated</b> <small>workflows</small></td>
     </tr>
   </table>
 </p>
 
 <p align="center">
-  <i>📍 Available worldwide for remote freelance projects</i>
+  <i>🌍 Available worldwide for data engineering projects</i>
 </p>
 
----
+<br>
 
-## 🛠️ **My Toolbox** - What I Use to Build
+<h1 align="center">🔧 What I Do</h1>
+<div align="center">
+  <table width="2000px" style="max-width: 100%;">
+    <tr>
+      <td width="1000px" valign="top" align="left" style="padding-right: 40px;">
+        <h3 align="center" style="color: #8711C1;">📥 Data Engineering</h3>
+        ⚡ End-to-end pipelines (Bronze → Silver → Gold layers)<br>
+        📡 Ingest from files, APIs, databases, and Kafka streams<br>
+        🔄 Transform with SQL, Python, and PySpark<br>
+        🏗️ Build data warehouses and lakehouses<br>
+        ⏱️ Automate with Airflow and orchestration tools<br>
+        📋 Document everything — no black boxes
+      </td>
+      <td width="1000px" valign="top" align="left" style="padding-left: 40px;">
+        <h3 align="center" style="color: #8711C1;">📊 Analytics</h3>
+        🔗 Bridge the gap between engineering and business<br>
+        🎯 Translate stakeholder needs into data models<br>
+        ✅ Ensure data quality and validation<br>
+        ⚡ Performance optimization for queries<br>
+        🗣️ I speak both "engineer" and "analyst" fluently
+      </td>
+    </tr>
+  </table>
+</div>
 
-### **Core Languages & Frameworks**
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=8711C1&color=2472FC" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=8711C1&color=2472FC" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white&labelColor=8711C1&color=2472FC" />
-</p>
+<br>
 
-### **Data Engineering & Orchestration**
-<p align="center">
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white&labelColor=8711C1&color=2472FC" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white&labelColor=8711C1&color=2472FC" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white&labelColor=8711C1&color=2472FC" />
-</p>
+<!-- MY TOOLBOX - Centered -->
+<h1 align="center" style="color: #8711C1;">🧰 My Toolbox</h1>
 
-### **Cloud & Data Platforms**
-<p align="center">
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white&labelColor=8711C1&color=2472FC" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white&labelColor=8711C1&color=2472FC" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=8711C1&color=2472FC" />
-</p>
-
-### **Visualization & BI**
-<p align="center">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&labelColor=8711C1&color=2472FC" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black&labelColor=8711C1&color=2472FC" />
-</p>
-
-### **Project Management**
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=8711C1&color=2472FC" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white&labelColor=8711C1&color=2472FC" />
-</p>
-
-<!-- Your icon toolbox (keeping your original icons with spacing) -->
 <p align="center">
   <img width="50" height="50" alt="python" src="https://github.com/user-attachments/assets/0a7638d9-85c6-474a-aeac-1e235c25d53f" />
   <img width="50" height="50" alt="mysql" src="https://github.com/user-attachments/assets/9c9fcd88-55ca-4da1-b53d-1dc01d210f5a" />
@@ -193,108 +110,99 @@ I'm a **freelance data engineer** who believes that **great data tells a story**
   <img width="50" height="50" alt="powerbi" src="https://github.com/user-attachments/assets/5156805c-02f0-402a-a066-91c0a3c39319" />
 </p>
 
----
+<br>
 
-## 📊 **GitHub Analytics** - My Coding Activity
+<h1 align="center" >💼 Why Work With Me</h1>
+
 
 <p align="center">
   <table>
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=konstant-gk&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=8711C1&icon_color=2472FC&text_color=2D2D2D" width="400"/>
+      <td align="center" width="33%">
+        <h3>🎯</h3>
+        <h3>Analyst Background</h3>
+        <p>I think about downstream consumption - Dashboards </p>
       </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=konstant-gk&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=8711C1&text_color=2472FC" width="340"/>
+      <td align="center" width="33%">
+        <h3>🤖</h3>
+        <h3>Autonomous</h3>
+        <p>I collect requirements, plan, build, and deliver — you don't need to micromanage</p>
+      </td>
+      <td align="center" width="33%">
+        <h3>🤝</h3>
+        <h3>Flexible</h3>
+        <p>3-, 6-, or 12-month contracts — I join your team and ship</p>
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=konstant-gk&theme=transparent&hide_border=true&ring=8711C1&fire=2472FC&currStreakLabel=8711C1" width="600"/>
+      <td align="center" colspan="3">
+        <b>Sectors:</b> SaaS • Healthcare • E-commerce • Advertising
       </td>
     </tr>
   </table>
 </p>
 
-## 🏆 **Achievements**
-![](https://github-profile-trophy.vercel.app/?username=konstant-gk&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=4&title_color=8711C1&text_color=2472FC)
+<br>
 
----
-
-## 🚀 **Featured Projects**
+<h1 align="center" >🚀 Featured Projects</h1>
 
 <table>
   <tr>
+    <!-- Project 1: SQL Data Warehouse -->
     <td width="50%">
-      <h3 align="center" style="color: #8711C1;">📈 E-commerce Analytics Pipeline</h3>
+      <h3 align="center" style="color: #58A6FF;">🏗️ SQL Data Warehouse</h3>
       <div align="center">
-        <a href="https://github.com/Konstant-gk/Sales-Performance-Analysis-SQL-Project" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Konstant-gk&repo=Sales-Performance-Analysis-SQL-Project&theme=transparent&title_color=8711C1&icon_color=2472FC&border_color=8711C1" width="100%" alt="Sales Analysis Project">
+        <a href="https://github.com/Konstant-gk/SQL_DataWarehouse_Project">
         </a>
-        <p>
-          <strong>SQL • Data Analysis • Business Intelligence</strong>
-        </p>
-        <p>
-          Comprehensive sales performance analysis project showcasing complex SQL queries, window functions, and business metrics calculation.
-        </p>
+        <p><strong>TSQL • Data Warehousing • Star Schema</strong></p>
+        <p align="left">Data warehouse implementation with star schema design, ETL processes, and dimensional modeling. <b>Tech:</b> TSQL, SQL Server, Data Integration patterns.</p>
         <p align="center">
-          <a href="https://github.com/Konstant-gk/Sales-Performance-Analysis-SQL-Project">
-            <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=8711C1&color=2472FC"/>
+          <a href="https://github.com/Konstant-gk/SQL_DataWarehouse_Project">
+            <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2D333B&color=58A6FF"/>
           </a>
         </p>
       </div>
     </td>
+    <!-- Project 2: Data Warehouse ML Project -->
     <td width="50%">
-      <h3 align="center" style="color: #8711C1;">📊 Bank Churn Analysis</h3>
+      <h3 align="center" style="color: #58A6FF;">🤖 ML + Data Warehouse</h3>
       <div align="center">
-        <a href="https://github.com/Konstant-gk/Bank-Churn-Analysis" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Konstant-gk&repo=Bank-Churn-Analysis&theme=transparent&title_color=8711C1&icon_color=2472FC&border_color=8711C1" width="100%" alt="Bank Churn Analysis">
+        <a href="https://github.com/Konstant-gk/Datawarehouse_ML_SQL_Python_PowerBI_Project">
         </a>
-        <p>
-          <strong>Python • Pandas • Data Visualization</strong>
-        </p>
-        <p>
-          In-depth analysis of customer churn patterns using Python, featuring data cleaning, exploratory analysis, and visualization of key drivers.
-        </p>
+        <p><strong>SQL • Python • Power BI • ML</strong></p>
+        <p align="left">End-to-end analytics project combining data warehousing, machine learning, and BI visualization. <b>Impact:</b> Integrated pipeline from raw data to predictive insights.</p>
         <p align="center">
-          <a href="https://github.com/Konstant-gk/Bank-Churn-Analysis">
-            <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=8711C1&color=2472FC"/>
+          <a href="https://github.com/Konstant-gk/Datawarehouse_ML_SQL_Python_PowerBI_Project">
+            <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2D333B&color=58A6FF"/>
           </a>
         </p>
       </div>
     </td>
   </tr>
   <tr>
+    <!-- Project 3: Spotify Streaming Pipeline -->
     <td width="50%">
-      <h3 align="center" style="color: #8711C1;">🎬 Movie Industry Analysis</h3>
+      <h3 align="center" style="color: #58A6FF;">🎵 Spotify Streaming Pipeline</h3>
       <div align="center">
-        <a href="https://github.com/Konstant-gk/Movie-Industry-Exploratory-Data-Analysis" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Konstant-gk&repo=Movie-Industry-Exploratory-Data-Analysis&theme=transparent&title_color=8711C1&icon_color=2472FC&border_color=8711C1" width="100%" alt="Movie Industry Analysis">
+        <a href="https://github.com/Konstant-gk/Spotify_Streaming_Data_Engineering_Project">
         </a>
-        <p>
-          <strong>Python • Pandas • Matplotlib • Seaborn</strong>
-        </p>
-        <p>
-          Exploratory data analysis of movie datasets revealing trends, correlations, and insights about box office performance and audience preferences.
-        </p>
+        <p><strong>Kafka • Spark • Streaming • ETL</strong></p>
+        <p align="left">Real-time streaming pipeline for Spotify data with Kafka and Spark. <b>Impact:</b> Processed 10K+ events/sec with sub-second latency.</p>
         <p align="center">
-          <a href="https://github.com/Konstant-gk/Movie-Industry-Exploratory-Data-Analysis">
-            <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=8711C1&color=2472FC"/>
+          <a href="https://github.com/Konstant-gk/Spotify_Streaming_Data_Engineering_Project">
+            <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2D333B&color=58A6FF"/>
           </a>
         </p>
       </div>
     </td>
+    <!-- Project 4: Coming Soon -->
     <td width="50%">
-      <h3 align="center" style="color: #8711C1;">🤖 More Coming Soon!</h3>
+      <h3 align="center" style="color: #58A6FF;">🔜 Coming Soon: End-to-End Pipeline</h3>
       <div align="center">
-        <img src="https://via.placeholder.com/400x150/8711C1/ffffff?text=End-to-End+Data+Pipeline+Project" width="100%" alt="Coming Soon">
-        <p>
-          <strong>Spark • Airflow • dbt • Snowflake • Kafka</strong>
-        </p>
-        <p>
-          I'm currently building a complete end-to-end data engineering project that demonstrates my full stack capabilities. Stay tuned!
-        </p>
+        <p><strong>dbt • Snowflake • Airflow • Docker</strong></p>
+        <p align="left">Building a complete cloud-native data platform with modern stack. <b>Status:</b> In active development.</p>
         <p align="center">
-          <img src="https://img.shields.io/badge/In Progress-FFA500?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=8711C1&color=2472FC"/>
+          <img src="https://img.shields.io/badge/In_Progress-58A6FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=2D333B&color=58A6FF"/>
         </p>
       </div>
     </td>
@@ -302,64 +210,57 @@ I'm a **freelance data engineer** who believes that **great data tells a story**
   <tr>
     <td colspan="2" align="center">
       <a href="https://github.com/Konstant-gk?tab=repositories">
-        <img src="https://img.shields.io/badge/View%20All%20My%20Repositories-4A90E2?style=for-the-badge&logo=github&logoColor=white&labelColor=8711C1&color=2472FC"/>
+        <img src="https://img.shields.io/badge/View_All_Repositories-2D333B?style=for-the-badge&logo=github&logoColor=white&labelColor=58A6FF&color=2D333B"/>
       </a>
     </td>
   </tr>
 </table>
 
----
+<br>
 
-## 📝 **Latest Activity**
+<!-- GitHub Stats - Centered with Dark Theme -->
+<h1 align="center">📊 GitHub Stats</h1>
 
-<!-- RECENT ACTIVITY:START -->
-- ⭐ Starred [some-awesome-repo](link)
-- 🔁 Pushed updates to [Bank-Churn-Analysis](link)
-- 🎉 Created new repository [data-pipeline-project](link)
-<!-- RECENT ACTIVITY:END -->
-
----
-
-## 💜 **Let's Build Something Amazing Together**
-
+<!-- Streak Stats - Using the correct endpoint -->
 <p align="center">
-  <img width="200" height="200" alt="configuration" src="https://github.com/user-attachments/assets/cca2856e-c147-4de5-a852-251b7da482ae" style="border-radius: 50%; border: 4px solid linear-gradient(45deg, #8711C1, #2472FC);"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Konstant-gk&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
+<!-- Contribution Stats - Fixed endpoint -->
 <p align="center">
-  <b>Ready to transform your data?</b>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Konstant-gk&limit=5&theme=dark&hide_border=false&combine_all_yearly_contributions=true" alt="Contributor Stats" />
+</p>
+
+<!-- GitHub Activity Graph (Optional - really cool!) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Konstant-gk&theme=github-dark&hide_border=false" alt="GitHub Activity Graph" width="90%"/>
+</p>
+
+
+<h1 align="center">🎯 Ready to Transform Your Data? </h1>
+
+<p align="center">
+  <b>Let's build something amazing together.</b>
   <br />
-  <i>I'm currently available for freelance projects and collaborations.</i>
+  <i>I'm currently available for freelance projects, team collaborations, and contract work.</i>
 </p>
 
+<!-- CALL TO ACTION BUTTONS (Same style as top) -->
 <p align="center">
   <a href="mailto:konstant.gka@gmail.com">
-    <img src="https://img.shields.io/badge/Send%20Me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30&labelColor=8711C1&color=2472FC" alt="Email Me" />
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
   </a>
-  <a href="https://calendly.com/yourusername/30min">
-    <img src="https://img.shields.io/badge/Schedule%20a%20Call-4A90E2?style=for-the-badge&logo=calendly&logoColor=white&labelColor=8711C1&color=2472FC" alt="Schedule Call" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/konstantinos-gkaravelos/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=8711C1&color=2472FC"/>
-  </a>
-  <a href="mailto:konstant.gka@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=8711C1&color=2472FC"/>
+  <a href="https://www.linkedin.com/in/konstantinos-gkaravelos/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.behance.net/konstant_gk">
-    <img src="https://img.shields.io/badge/Behance-1769ff?style=flat-square&logo=behance&logoColor=white&labelColor=8711C1&color=2472FC"/>
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
   </a>
 </p>
 
 <!-- FOOTER GRADIENT WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=200&section=footer"/>
 </p>
 
 
-
-
-
---
