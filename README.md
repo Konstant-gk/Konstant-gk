@@ -34,59 +34,38 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=40&duration=2200&pause=200&color=8711C1&background=B4FF4000&center=true&vCenter=true&width=1200&height=50&lines=How+to+descibe+me?;Data+Engineer+|+Designer+|+World+Traveler.;2+years+Analyst.;Now+building+pipelines+that+feed+the+dashboards.;ETL+|+Data+Quality+|+Viz.;SQL+|+Python+|+Pyspark+|+PowerBI.;Check+my+skills+below++%E2%96%BC)](https://git.io/typing-svg)
 
 <br>
-<br> 
 
-<!-- MY TOOLBOX - Centered -->
-<h1 align="center" style="color: #8711C1;">🧰 My Toolbox</h1>
 
-<p align="center">
-  <img width="50" height="50" alt="python" src="https://github.com/user-attachments/assets/0a7638d9-85c6-474a-aeac-1e235c25d53f" />
-  <img width="50" height="50" alt="mysql" src="https://github.com/user-attachments/assets/9c9fcd88-55ca-4da1-b53d-1dc01d210f5a" />
-  <img width="50" height="50" alt="git" src="https://github.com/user-attachments/assets/05175811-dd93-4cd5-ab3c-437d4a81bc91" />
-  <img width="50" height="50" alt="kafka" src="https://github.com/user-attachments/assets/673ca8e7-d6f1-4346-a788-35bbaaa683ee" />
-  <img width="50" height="50" alt="snowflake" src="https://github.com/user-attachments/assets/4504ba74-d538-4fb3-8fe2-a95cf12f418b" />
-  <img width="50" height="50" alt="docker" src="https://github.com/user-attachments/assets/5f462e72-c2af-41a9-85e6-5bf2586056d6" />
-  <img width="50" height="50" alt="tableau" src="https://github.com/user-attachments/assets/38336b09-34d1-460d-a0dd-a013ade5387d" />
-  <img width="50" height="50" alt="airflow" src="https://github.com/user-attachments/assets/2d3d7715-8adf-42eb-bb4e-2f1c5fded888" />
-  <img width="50" height="50" alt="jira" src="https://github.com/user-attachments/assets/4622339d-2ac4-4992-86c0-02c63c3a8b07" />
-  <img width="50" height="50" alt="databricks" src="https://github.com/user-attachments/assets/a682de64-2efe-4ed7-aead-9f4b518ea8c3" />
-  <img width="50" height="50" alt="dbt" src="https://github.com/user-attachments/assets/a24ebf48-db7c-49fb-9108-122d44be7fed" />
-  <img width="50" height="50" alt="spark" src="https://github.com/user-attachments/assets/2a87b93c-046a-4be5-a4b7-1c0b1f46302f" />
-  <img width="50" height="50" alt="powerbi" src="https://github.com/user-attachments/assets/5156805c-02f0-402a-a066-91c0a3c39319" />
-</p>
+<h1 align="center" >👨‍💻 My Story: From Dashboards to Data Pipelines</h1>
 
-<br>
 
-## 👨‍💻 **My Story: From Dashboards to Data Pipelines**
-
-Welcome to my profile! I'm **Konstantinos**, and I spent **2 years as a data analyst** turning raw data into beautiful dashboards. I loved it — but I kept hitting the same wall: **messy data, manual refreshes, and pipelines held together with duct tape.**
+I spent **2 years as a data analyst** turning raw data into beautiful dashboards. I loved it — but I kept hitting the same wall: **messy data, manual refreshes, and pipelines held together with duct tape.**
 
 So I went **upstream**.
 
-I learned how to build the **plumbing** — the ETL processes, the data warehouse layers, the orchestration — so that **clean, reliable data flows automatically from source to insight.**
+I learned how to build the **plumbing** — the ETL processes, the data layers, the orchestration. etc — so that **clean, reliable data flows automatically from source to insight.**
 
 Now I'm a **freelance data engineer** who understands what analysts and stakeholders actually need, because **I've been in their shoes.**
 
 <p align="center">
-  <table>
+  <table align="center" width="95%">
     <tr>
-      <td align="center" width="25%"><b>⚡ Fast</b><br><small>Optimized pipelines</small></td>
-      <td align="center" width="25%"><b>🧹 Clean</b><br><small>Data quality built-in</small></td>
-      <td align="center" width="25%"><b>📊 Business-ready</b><br><small>Analytics from day one</small></td>
-      <td align="center" width="25%"><b>🔄 Automated</b><br><small>Set it and forget it</small></td>
+      <td align="center"><b>⚡ Optimized</b> <small>pipelines</small></td>
+      <td align="center"><b>🧹 Clean</b> <small>data</small></td>
+      <td align="center"><b>📊 Business-ready</b> <small>analytics</small></td>
+      <td align="center"><b>🔄 Automated</b> <small>workflows</small></td>
     </tr>
   </table>
 </p>
 
 <p align="center">
-  <i>🌍 Available worldwide for remote freelance projects</i>
+  <i>🌍 Available worldwide for data engineering projects</i>
 </p>
 
 <br>
 
----
 
-# 🔧 **What I Do**
+<h1 align="center" >🔧 What I Do</h1>
 
 <table>
   <tr>
@@ -115,9 +94,31 @@ Now I'm a **freelance data engineer** who understands what analysts and stakehol
   </tr>
 </table>
 
----
+<br>
 
-# 💼 **Why Work With Me**
+<!-- MY TOOLBOX - Centered -->
+<h1 align="center" style="color: #8711C1;">🧰 My Toolbox</h1>
+
+<p align="center">
+  <img width="50" height="50" alt="python" src="https://github.com/user-attachments/assets/0a7638d9-85c6-474a-aeac-1e235c25d53f" />
+  <img width="50" height="50" alt="mysql" src="https://github.com/user-attachments/assets/9c9fcd88-55ca-4da1-b53d-1dc01d210f5a" />
+  <img width="50" height="50" alt="git" src="https://github.com/user-attachments/assets/05175811-dd93-4cd5-ab3c-437d4a81bc91" />
+  <img width="50" height="50" alt="kafka" src="https://github.com/user-attachments/assets/673ca8e7-d6f1-4346-a788-35bbaaa683ee" />
+  <img width="50" height="50" alt="snowflake" src="https://github.com/user-attachments/assets/4504ba74-d538-4fb3-8fe2-a95cf12f418b" />
+  <img width="50" height="50" alt="docker" src="https://github.com/user-attachments/assets/5f462e72-c2af-41a9-85e6-5bf2586056d6" />
+  <img width="50" height="50" alt="tableau" src="https://github.com/user-attachments/assets/38336b09-34d1-460d-a0dd-a013ade5387d" />
+  <img width="50" height="50" alt="airflow" src="https://github.com/user-attachments/assets/2d3d7715-8adf-42eb-bb4e-2f1c5fded888" />
+  <img width="50" height="50" alt="jira" src="https://github.com/user-attachments/assets/4622339d-2ac4-4992-86c0-02c63c3a8b07" />
+  <img width="50" height="50" alt="databricks" src="https://github.com/user-attachments/assets/a682de64-2efe-4ed7-aead-9f4b518ea8c3" />
+  <img width="50" height="50" alt="dbt" src="https://github.com/user-attachments/assets/a24ebf48-db7c-49fb-9108-122d44be7fed" />
+  <img width="50" height="50" alt="spark" src="https://github.com/user-attachments/assets/2a87b93c-046a-4be5-a4b7-1c0b1f46302f" />
+  <img width="50" height="50" alt="powerbi" src="https://github.com/user-attachments/assets/5156805c-02f0-402a-a066-91c0a3c39319" />
+</p>
+
+<br>
+
+<h1 align="center" >💼 Why Work With Me</h1>
+
 
 <p align="center">
   <table>
