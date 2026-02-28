@@ -1,3 +1,10 @@
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Geologica&weight=800&size=35&duration=2500&pause=500&color=8711C1&background=B4FF4000&center=true&vCenter=true&width=1000&height=200&lines=Hey+I+am+Konstantinos!;Freelancer+Data+Engineer.;Building+pipelines+from+source+to+insight.;Check+my+work+below++%E2%96%BC)](https://git.io/typing-svg)
+
+
+
+
+
 ## Hi there 👋 [![](https://visitcount.itsvg.in/api?id=konstant-gk&icon=0&color=0)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working on **Data Visualisation, Data Cleaning, Data Manipulation**
