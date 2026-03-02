@@ -5,7 +5,7 @@
 <!-- CONTACT BUTTONS - PROFILE VIEWS COUNTER Clickable with your email and LinkedIn --> 
 <p align="left">
   <!-- Email Badge -->
-  <a href="mailto:konstant.gka@gmail.com">
+  <a href="mailto:hello.konstantinos.gkaravelos@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   
@@ -247,7 +247,7 @@ Now I'm a **freelance data engineer** who understands what analysts and stakehol
 
 <!-- CALL TO ACTION BUTTONS (Same style as top) -->
 <p align="center">
-  <a href="mailto:konstant.gka@gmail.com">
+  <a href="mailto:hello.konstantinos.gkaravelos@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
   </a>
   <a href="https://www.linkedin.com/in/konstantinos-gkaravelos/">
