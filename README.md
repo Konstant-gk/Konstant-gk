@@ -96,20 +96,21 @@ Now I'm a **freelance data engineer** who understands what analysts and stakehol
 
 <p
   align="center"
-  style="display: flex; justify-content: center; align-items: center; gap: 8px; padding: 8px; flex-wrap: wrap;"
+  style="display: flex; justify-content: center; align-items: center; gap: 24px; padding: 24px; flex-wrap: wrap;"
 >
-  <img width="48" height="48" alt="airflow" src="https://raw.githubusercontent.com/Konstant-gk/kg-learning/main/assets/icons/tech_stack/airflow.png" />
-  <img width="48" height="48" alt="tableau" src="https://raw.githubusercontent.com/Konstant-gk/kg-learning/main/assets/icons/tech_stack/tableau.png" />
-  <img width="48" height="48" alt="sql" src="https://raw.githubusercontent.com/Konstant-gk/kg-learning/main/assets/icons/tech_stack/sql.png" />
-  <img width="48" height="48" alt="spark" src="https://raw.githubusercontent.com/Konstant-gk/kg-learning/main/assets/icons/tech_stack/spark.png" />
-  <img width="48" height="48" alt="snowflake" src="https://raw.githubusercontent.com/Konstant-gk/kg-learning/main/assets/icons/tech_stack/snowflake.png" />
-  <img width="48" height="48" alt="python" src="https://raw.githubusercontent.com/Konstant-gk/kg-learning/main/assets/icons/tech_stack/python.png" />
-  <img width="48" height="48" alt="powerbi" src="https://raw.githubusercontent.com/Konstant-gk/kg-learning/main/assets/icons/tech_stack/powerbi.png" />
-  <img width="48" height="48" alt="kafka" src="https://raw.githubusercontent.com/Konstant-gk/kg-learning/main/assets/icons/tech_stack/kafka.png" />
-  <img width="48" height="48" alt="jira" src="https://raw.githubusercontent.com/Konstant-gk/kg-learning/main/assets/icons/tech_stack/jira.png" />
-  <img width="48" height="48" alt="git" src="https://raw.githubusercontent.com/Konstant-gk/kg-learning/main/assets/icons/tech_stack/git.png" />
-  <img width="48" height="48" alt="dbt" src="https://raw.githubusercontent.com/Konstant-gk/kg-learning/main/assets/icons/tech_stack/dbt.png" />
-  <img width="48" height="48" alt="docker" src="https://raw.githubusercontent.com/Konstant-gk/kg-learning/main/assets/icons/tech_stack/docker.png" />
+  <img width="48" height="48" alt="airflow" src="https://raw.githubusercontent.com/Konstant-gk/plant-sales-analytics-visualization-powerbi/main/assets/icons/tech-stack/airflow.png" />
+  <img width="48" height="48" alt="git" src="https://raw.githubusercontent.com/Konstant-gk/plant-sales-analytics-visualization-powerbi/main/assets/icons/tech-stack/git.png" />
+  <img width="48" height="48" alt="snowflake" src="https://raw.githubusercontent.com/Konstant-gk/plant-sales-analytics-visualization-powerbi/main/assets/icons/tech-stack/snowflake.png" />
+  <img width="48" height="48" alt="sql" src="https://raw.githubusercontent.com/Konstant-gk/plant-sales-analytics-visualization-powerbi/main/assets/icons/tech-stack/sql.png" />
+  <img width="48" height="48" alt="tableau" src="https://raw.githubusercontent.com/Konstant-gk/plant-sales-analytics-visualization-powerbi/main/assets/icons/tech-stack/tableau.png" />
+  <img width="48" height="48" alt="spark" src="https://raw.githubusercontent.com/Konstant-gk/plant-sales-analytics-visualization-powerbi/main/assets/icons/tech-stack/spark.png" />
+  <img width="48" height="48" alt="docker" src="https://raw.githubusercontent.com/Konstant-gk/plant-sales-analytics-visualization-powerbi/main/assets/icons/tech-stack/docker.png" />
+  <img width="48" height="48" alt="python" src="https://raw.githubusercontent.com/Konstant-gk/plant-sales-analytics-visualization-powerbi/main/assets/icons/tech-stack/python.png" />
+  <img width="48" height="48" alt="kafka" src="https://raw.githubusercontent.com/Konstant-gk/plant-sales-analytics-visualization-powerbi/main/assets/icons/tech-stack/kafka.png" />
+  <img width="48" height="48" alt="powerbi" src="https://raw.githubusercontent.com/Konstant-gk/plant-sales-analytics-visualization-powerbi/main/assets/icons/tech-stack/powerbi.png" />
+  <img width="48" height="48" alt="databricks" src="https://raw.githubusercontent.com/Konstant-gk/plant-sales-analytics-visualization-powerbi/main/assets/icons/tech-stack/databricks.png" />
+  <img width="48" height="48" alt="jira" src="https://raw.githubusercontent.com/Konstant-gk/plant-sales-analytics-visualization-powerbi/main/assets/icons/tech-stack/jira.png" />
+  <img width="48" height="48" alt="dbt" src="https://raw.githubusercontent.com/Konstant-gk/plant-sales-analytics-visualization-powerbi/main/assets/icons/tech-stack/dbt.png" />
 </p>
 
 <br>
