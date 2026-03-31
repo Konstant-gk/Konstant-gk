@@ -94,20 +94,22 @@ Now I'm a **freelance data engineer** who understands what analysts and stakehol
 <!-- MY TOOLBOX - Centered -->
 <h1 align="center" style="color: #8711C1;">🧰 My Toolbox</h1>
 
-<p align="center">
-  <img width="50" height="50" alt="python" src="https://github.com/user-attachments/assets/0a7638d9-85c6-474a-aeac-1e235c25d53f" />
-  <img width="50" height="50" alt="mysql" src="https://github.com/user-attachments/assets/9c9fcd88-55ca-4da1-b53d-1dc01d210f5a" />
-  <img width="50" height="50" alt="git" src="https://github.com/user-attachments/assets/05175811-dd93-4cd5-ab3c-437d4a81bc91" />
-  <img width="50" height="50" alt="kafka" src="https://github.com/user-attachments/assets/673ca8e7-d6f1-4346-a788-35bbaaa683ee" />
-  <img width="50" height="50" alt="snowflake" src="https://github.com/user-attachments/assets/4504ba74-d538-4fb3-8fe2-a95cf12f418b" />
-  <img width="50" height="50" alt="docker" src="https://github.com/user-attachments/assets/5f462e72-c2af-41a9-85e6-5bf2586056d6" />
-  <img width="50" height="50" alt="tableau" src="https://github.com/user-attachments/assets/38336b09-34d1-460d-a0dd-a013ade5387d" />
-  <img width="50" height="50" alt="airflow" src="https://github.com/user-attachments/assets/2d3d7715-8adf-42eb-bb4e-2f1c5fded888" />
-  <img width="50" height="50" alt="jira" src="https://github.com/user-attachments/assets/4622339d-2ac4-4992-86c0-02c63c3a8b07" />
-  <img width="50" height="50" alt="databricks" src="https://github.com/user-attachments/assets/a682de64-2efe-4ed7-aead-9f4b518ea8c3" />
-  <img width="50" height="50" alt="dbt" src="https://github.com/user-attachments/assets/a24ebf48-db7c-49fb-9108-122d44be7fed" />
-  <img width="50" height="50" alt="spark" src="https://github.com/user-attachments/assets/2a87b93c-046a-4be5-a4b7-1c0b1f46302f" />
-  <img width="50" height="50" alt="powerbi" src="https://github.com/user-attachments/assets/5156805c-02f0-402a-a066-91c0a3c39319" />
+<p
+  align="center"
+  style="display: flex; justify-content: center; align-items: center; gap: 8px; padding: 8px; flex-wrap: wrap;"
+>
+  <img width="48" height="48" alt="airflow" src="https://raw.githubusercontent.com/Konstant-gk/kg-learning/main/assets/icons/tech_stack/airflow.png" />
+  <img width="48" height="48" alt="tableau" src="https://raw.githubusercontent.com/Konstant-gk/kg-learning/main/assets/icons/tech_stack/tableau.png" />
+  <img width="48" height="48" alt="sql" src="https://raw.githubusercontent.com/Konstant-gk/kg-learning/main/assets/icons/tech_stack/sql.png" />
+  <img width="48" height="48" alt="spark" src="https://raw.githubusercontent.com/Konstant-gk/kg-learning/main/assets/icons/tech_stack/spark.png" />
+  <img width="48" height="48" alt="snowflake" src="https://raw.githubusercontent.com/Konstant-gk/kg-learning/main/assets/icons/tech_stack/snowflake.png" />
+  <img width="48" height="48" alt="python" src="https://raw.githubusercontent.com/Konstant-gk/kg-learning/main/assets/icons/tech_stack/python.png" />
+  <img width="48" height="48" alt="powerbi" src="https://raw.githubusercontent.com/Konstant-gk/kg-learning/main/assets/icons/tech_stack/powerbi.png" />
+  <img width="48" height="48" alt="kafka" src="https://raw.githubusercontent.com/Konstant-gk/kg-learning/main/assets/icons/tech_stack/kafka.png" />
+  <img width="48" height="48" alt="jira" src="https://raw.githubusercontent.com/Konstant-gk/kg-learning/main/assets/icons/tech_stack/jira.png" />
+  <img width="48" height="48" alt="git" src="https://raw.githubusercontent.com/Konstant-gk/kg-learning/main/assets/icons/tech_stack/git.png" />
+  <img width="48" height="48" alt="dbt" src="https://raw.githubusercontent.com/Konstant-gk/kg-learning/main/assets/icons/tech_stack/dbt.png" />
+  <img width="48" height="48" alt="docker" src="https://raw.githubusercontent.com/Konstant-gk/kg-learning/main/assets/icons/tech_stack/docker.png" />
 </p>
 
 <br>
@@ -224,11 +226,6 @@ Now I'm a **freelance data engineer** who understands what analysts and stakehol
 <!-- Streak Stats - Using the correct endpoint -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Konstant-gk&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<!-- Contribution Stats - Fixed endpoint -->
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Konstant-gk&limit=5&theme=dark&hide_border=false&combine_all_yearly_contributions=true" alt="Contributor Stats" />
 </p>
 
 <!-- GitHub Activity Graph (Optional - really cool!) -->
