@@ -1,6 +1,6 @@
 <!-- DYNAMIC HEADER WITH YOUR BRAND COLORS -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=250&section=header&text=Hello%2C%20I'm%20Konstantinos!&fontSize=50&fontAlignY=35&desc=Freelance%20Data%20Engineer%20%7C%20Now%20building%20pipelines%20that%20feed%20the%20dashboards&descAlignY=55&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=250&section=header&text=Hey%2C%20I'm%20Konstantinos!&fontSize=50&fontAlignY=35&desc=Freelance%20Data%20Engineer%20%7C%20Now%20building%20pipelines%20that%20feed%20the%20dashboards&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- CONTACT BUTTONS - PROFILE VIEWS COUNTER Clickable with your email and LinkedIn --> 
 <p align="left">
@@ -36,16 +36,14 @@
 <br>
 
 
-<h1 align="center" >👨‍💻 My Story: From Dashboards to Data Pipelines</h1>
+<h1 align="center" >👨‍💻 My Journey</h1>
 
 
-I spent **2 years as a data analyst** turning raw data into beautiful dashboards. I loved it — but I kept hitting the same wall: **messy data, manual refreshes, and pipelines held together with duct tape.**
+I am an Analytics Engineer with an Analyst background as I spent two years building dashboards for business teams and managing sales operations data. Over time, I became more interested in the data behind the dashboards — how it was collected, transformed, cleaned, and organized. That pushed me toward analytics engineering with focus on the layer between raw data and the final report.
 
-So I went **upstream**.
+Now, as an Analytics Engineer, I can do stuff like pull data from APIs, transform raw datasets with Spark, use SQL and dbt to clean, model, and test data in a warehouse, set up pipeline runs and more. I’m also comfortable working on reporting-focused data projects and supporting analytics workflows with SQL, Python, PySpark, dbt, and BI tools using cloud platforms (like Snowflake, Databricks, BigQuery).
 
-I learned how to build the **plumbing** — the ETL processes, the data layers, the orchestration. etc — so that **clean, reliable data flows automatically from source to insight.**
-
-Now I'm a **freelance data engineer** who understands what analysts and stakeholders actually need, because **I've been in their shoes.**
+I bridge the gap between engineering reality and business needs because I understand what business stakeholders need to see on a dashboard, and I know how to write the code to get the data there reliably.
 
 <p align="center">
   <table align="center" width="95%">
@@ -59,7 +57,7 @@ Now I'm a **freelance data engineer** who understands what analysts and stakehol
 </p>
 
 <p align="center">
-  <i>🌍 Available worldwide for data engineering projects</i>
+  <i>🌍 Available worldwide</i>
 </p>
 
 <br>
@@ -71,7 +69,7 @@ Now I'm a **freelance data engineer** who understands what analysts and stakehol
       <td width="1000px" valign="top" align="left" style="padding-right: 40px;">
         <h3 align="center" style="color: #8711C1;">📥 Data Engineering</h3>
         ⚡ End-to-end pipelines (Bronze → Silver → Gold layers)<br>
-        📡 Ingest from files, APIs, databases, and Kafka streams<br>
+        📡 Ingest from files, APIs, databases<br>
         🔄 Transform with SQL, Python, and PySpark<br>
         🏗️ Build data warehouses and lakehouses<br>
         ⏱️ Automate with Airflow and orchestration tools<br>
@@ -111,38 +109,6 @@ Now I'm a **freelance data engineer** who understands what analysts and stakehol
   <img width="48" height="48" alt="databricks" src="https://raw.githubusercontent.com/Konstant-gk/plant-sales-analytics-visualization-powerbi/main/assets/icons/tech-stack/databricks.png" />
   <img width="48" height="48" alt="jira" src="https://raw.githubusercontent.com/Konstant-gk/plant-sales-analytics-visualization-powerbi/main/assets/icons/tech-stack/jira.png" />
   <img width="48" height="48" alt="dbt" src="https://raw.githubusercontent.com/Konstant-gk/plant-sales-analytics-visualization-powerbi/main/assets/icons/tech-stack/dbt.png" />
-</p>
-
-<br>
-
-<h1 align="center" >💼 Why Work With Me</h1>
-
-
-<p align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <h3>🎯</h3>
-        <h3>Analyst Background</h3>
-        <p>I think about downstream consumption - Dashboards </p>
-      </td>
-      <td align="center" width="33%">
-        <h3>🤖</h3>
-        <h3>Autonomous</h3>
-        <p>I collect requirements, plan, build, and deliver — you don't need to micromanage</p>
-      </td>
-      <td align="center" width="33%">
-        <h3>🤝</h3>
-        <h3>Flexible</h3>
-        <p>3-, 6-, or 12-month contracts — I join your team and ship</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="3">
-        <b>Sectors:</b> SaaS • Healthcare • E-commerce • Advertising
-      </td>
-    </tr>
-  </table>
 </p>
 
 <br>
@@ -198,14 +164,14 @@ Now I'm a **freelance data engineer** who understands what analysts and stakehol
         </p>
       </div>
     </td>
-    <!-- Project 4: Coming Soon -->
+    <!-- Project 4: NutriChain Open Food Lakehouse -->
     <td width="50%">
-      <h3 align="center" style="color: #58A6FF;">🔜 Coming Soon: End-to-End Pipeline</h3>
+      <h3 align="center" style="color: #58A6FF;">🍉 NutriChain Open Food Lakehouse</h3>
       <div align="center">
-        <p><strong>dbt • Snowflake • Airflow • Docker</strong></p>
-        <p align="left">Building a complete cloud-native data platform with modern stack. <b>Status:</b> In active development.</p>
+        <p><strong>dbt • Databricks • Airflow • CI/CD • Pyspark </strong></p>
+        <p align="left"> Production Batch Lakehouse ingesting paginated API data from Open Food Facts API to Databricks.</p>
         <p align="center">
-          <img src="https://img.shields.io/badge/In_Progress-58A6FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=2D333B&color=58A6FF"/>
+          <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2D333B&color=58A6FF"/>
         </p>
       </div>
     </td>
@@ -238,8 +204,6 @@ Now I'm a **freelance data engineer** who understands what analysts and stakehol
 <h1 align="center">🎯 Ready to Transform Your Data? </h1>
 
 <p align="center">
-  <b>Let's build something amazing together.</b>
-  <br />
   <i>I'm currently available for freelance projects, team collaborations, and contract work.</i>
 </p>
 
