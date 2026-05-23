@@ -1,6 +1,6 @@
 <!-- DYNAMIC HEADER WITH YOUR BRAND COLORS -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=250&section=header&text=Hey%2C%20I'm%20Konstantinos!&fontSize=50&fontAlignY=35&desc=Freelance%20Data%20Engineer%20%7C%20Now%20building%20pipelines%20that%20feed%20the%20dashboards&descAlignY=55&animation=fadeIn" width="100%"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=250&section=header&text=Hey%2C%20I%27m%20Konstantinos&fontSize=50&fontAlignY=35&desc=Analytics%20Engineer%20with%20Analyst%20Background%20%7C%20BI-ready%20Data&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- CONTACT BUTTONS - PROFILE VIEWS COUNTER Clickable with your email and LinkedIn --> 
 <p align="left">
@@ -31,7 +31,7 @@
   <img width="150" height="150" alt="Konstantinos profile icon" src="https://github.com/user-attachments/assets/cca2856e-c147-4de5-a852-251b7da482ae" style="border-radius: 50%; border: 3px solid #8711C1; padding: 5px;"/>
 
 <!-- TYPING SVG - Your existing one with adjusted colors -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=40&duration=2200&pause=200&color=8711C1&background=B4FF4000&center=true&vCenter=true&width=1200&height=50&lines=How+to+descibe+me?;Data+Engineer+|+Designer+|+World+Traveler.;2+years+Analyst.;Now+building+pipelines+that+feed+the+dashboards.;ETL+|+Data+Quality+|+Viz.;SQL+|+Python+|+Pyspark+|+PowerBI.;Check+my+skills+below++%E2%96%BC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=40&duration=4000&pause=200&color=8711C1&background=B4FF4000&center=true&vCenter=true&width=1200&height=50&lines=How+to+descibe+me?;I'm+an+Analytics+Engineer+with+an+Analyst+Background;I+help+teams+build+BI-ready+Data+Pipelines+&+Reporting+Systems.)](https://git.io/typing-svg)
 
 <br>
 
@@ -48,16 +48,11 @@ I bridge the gap between engineering reality and business needs because I unders
 <p align="center">
   <table align="center" width="95%">
     <tr>
-      <td align="center"><b>⚡ Optimized</b> <small>pipelines</small></td>
       <td align="center"><b>🧹 Clean</b> <small>data</small></td>
       <td align="center"><b>📊 Business-ready</b> <small>analytics</small></td>
       <td align="center"><b>🔄 Automated</b> <small>workflows</small></td>
     </tr>
   </table>
-</p>
-
-<p align="center">
-  <i>🌍 Available worldwide</i>
 </p>
 
 <br>
@@ -68,18 +63,18 @@ I bridge the gap between engineering reality and business needs because I unders
     <tr>
       <td width="1000px" valign="top" align="left" style="padding-right: 40px;">
         <h3 align="center" style="color: #8711C1;">📥 Data Engineering</h3>
-        ⚡ End-to-end pipelines (Bronze → Silver → Gold layers)<br>
-        📡 Ingest from files, APIs, databases<br>
-        🔄 Transform with SQL, Python, and PySpark<br>
+        ⚡ SQL Transformation and dbt modeling<br>
+        📡Custom Data Ingestion & Cloud Storage<br>
+        🔄 Data Cleaning & Standardization with Pyspark<br>
         🏗️ Build data warehouses and lakehouses<br>
-        ⏱️ Automate with Airflow and orchestration tools<br>
-        📋 Document everything — no black boxes
+        ⏱️ Pipeline Orchestration & CI/CD<br>
+        📋 Analytics Engineering Support
       </td>
       <td width="1000px" valign="top" align="left" style="padding-left: 40px;">
         <h3 align="center" style="color: #8711C1;">📊 Analytics</h3>
         🔗 Bridge the gap between engineering and business<br>
         🎯 Translate stakeholder needs into data models<br>
-        ✅ Ensure data quality and validation<br>
+        ✅ Dashboard Development<br>
         ⚡ Performance optimization for queries<br>
         🗣️ I speak both "engineer" and "analyst" fluently
       </td>
