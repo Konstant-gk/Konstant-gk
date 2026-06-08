@@ -1,6 +1,6 @@
 <!-- DYNAMIC HEADER WITH YOUR BRAND COLORS -->
 <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=250&section=header&text=Hey%2C%20I%27m%20Konstantinos&fontSize=50&fontAlignY=35&desc=Analytics%20Engineer%20with%20Analyst%20Background%20%7C%20BI-ready%20Data&descAlignY=55&animation=fadeIn" width="100%"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=250&section=header&text=Hey%2C%20I%27m%20Konstantinos&fontSize=50&fontAlignY=35&desc=Analytics%20Engineer%20with%20Analyst%20Background%20&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- CONTACT BUTTONS - PROFILE VIEWS COUNTER Clickable with your email and LinkedIn --> 
 <p align="left">
