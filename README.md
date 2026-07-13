@@ -59,33 +59,6 @@ If you need someone to fix a reporting mess, build a dashboard from scratch, or 
 
 <br>
 
-<h1 align="center">🔧 What I Do</h1>
-<div align="center">
-  <table width="2000px" style="max-width: 100%;">
-    <tr>
-      <td width="1000px" valign="top" align="left" style="padding-right: 40px;">
-        <h3 align="center" style="color: #8711C1;">📥 Data Engineering</h3>
-        ⚡ SQL Transformation and dbt modeling<br>
-        📡Custom Data Ingestion & Cloud Storage<br>
-        🔄 Data Cleaning & Standardization with Pyspark<br>
-        🏗️ Build data warehouses and lakehouses<br>
-        ⏱️ Pipeline Orchestration & CI/CD<br>
-        📋 Analytics Engineering Support
-      </td>
-      <td width="1000px" valign="top" align="left" style="padding-left: 40px;">
-        <h3 align="center" style="color: #8711C1;">📊 Analytics</h3>
-        🔗 Bridge the gap between engineering and business<br>
-        🎯 Translate stakeholder needs into data models<br>
-        ✅ Dashboard Development<br>
-        ⚡ Performance optimization for queries<br>
-        🗣️ I speak both "engineer" and "analyst" fluently
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
 <!-- MY TOOLBOX - Centered -->
 <h1 align="center" style="color: #8711C1;">🧰 My Toolbox</h1>
 
