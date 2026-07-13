@@ -39,11 +39,13 @@
 <h1 align="center" >👨‍💻 My Journey</h1>
 
 
-I am an Analytics Engineer with an Analyst background as I spent two years building dashboards for business teams and managing sales operations data. Over time, I became more interested in the data behind the dashboards — how it was collected, transformed, cleaned, and organized. That pushed me toward analytics engineering with focus on the layer between raw data and the final report.
+I've spent close to two years inside operations teams, called in whenever reporting turned into chaos — duplicate records, manual Excel trackers, dashboards nobody trusted. My job was to make the numbers reliable: writing SQL to build clean data models, automating what used to be manual, and delivering dashboards in Power BI, Tableau, and Metabase that people actually used to make decisions.
 
-Now, as an Analytics Engineer, I can do stuff like pull data from APIs, transform raw datasets with Spark, use SQL and dbt to clean, model, and test data in a warehouse, set up pipeline runs and more. I’m also comfortable working on reporting-focused data projects and supporting analytics workflows with SQL, Python, PySpark, dbt, and BI tools using cloud platforms (like Snowflake, Databricks, BigQuery).
+That work kept pointing me at the same question: why does a "simple" dashboard take so long to build and keep working? So on my own time, I taught myself the layer underneath — Python, dbt, Airflow, Databricks — and built a full pipeline from raw API data to a production-style lakehouse (NutriChain Food Lakehouse), the same architecture modern data teams run in production.
 
-I bridge the gap between engineering reality and business needs because I understand what business stakeholders need to see on a dashboard, and I know how to write the code to get the data there reliably.
+I'm not pitching myself as an engineer who's never shipped analyst work. I'm a data analyst and BI consultant who now understands what happens under the hood — which means fewer broken dashboards, faster turnaround, and reporting that doesn't fall apart the moment your data source changes.
+ 
+If you need someone to fix a reporting mess, build a dashboard from scratch, or just get a straight answer about what your data can actually tell you — that's what I do. Send me a message!
 
 <p align="center">
   <table align="center" width="95%">
