@@ -1,6 +1,6 @@
 <!-- DYNAMIC HEADER WITH YOUR BRAND COLORS -->
 <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=250&section=header&text=Hey%2C%20I%27m%20Konstantinos&fontSize=50&fontAlignY=35&desc=Analytics%20Engineer%20with%20Analyst%20Background%20&descAlignY=55&animation=fadeIn" width="100%"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=250&section=header&text=Hey%2C%20I%27m%20Konstantinos&fontSize=50&fontAlignY=35&desc=Data%20Analyst%20and%20BI%20Consultant%20&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- CONTACT BUTTONS - PROFILE VIEWS COUNTER Clickable with your email and LinkedIn --> 
 <p align="left">
@@ -31,7 +31,7 @@
   <img width="150" height="150" alt="Konstantinos profile icon" src="https://github.com/user-attachments/assets/cca2856e-c147-4de5-a852-251b7da482ae" style="border-radius: 50%; border: 3px solid #8711C1; padding: 5px;"/>
 
 <!-- TYPING SVG - Your existing one with adjusted colors -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=40&duration=4000&pause=200&color=8711C1&background=B4FF4000&center=true&vCenter=true&width=1200&height=50&lines=How+to+descibe+me?;I'm+an+Analytics+Engineer+with+an+Analyst+Background;I+help+teams+build+BI-ready+Data+Pipelines+&+Reporting+Systems.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=40&duration=4000&pause=200&color=8711C1&background=B4FF4000&center=true&vCenter=true&width=1200&height=50&lines=I+am+a+Data+Analyst+%26+BI+Consultant.;For+2+years+I+have+been+helping+Businesses;Turn+Raw+Data+Into+Clear%2C+Revenue-Driving+Dashboards.;Building+Modern+Data+Pipelines+on+the+side)](https://git.io/typing-svg)
 
 <br>
 
